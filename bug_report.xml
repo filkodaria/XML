@@ -1,25 +1,19 @@
-<Bug report>
+<BugReport>
    <ID>Bug_333</ID>
    <Summary>//Cart// The coupon code CYBER21 isn't applied while 2 books are added into the cart</Summary>
-   <STR:> 
+   <STR> 
       <list>1. Open the site https://www.betterworldbooks.com</list>
       <list>2. Add 3 items to the cart (at least 2 items must be by BetterWorldBooks seller)</list>
       <list>3. Open the Cart</list>
       <list>4. Apply the coupon code CYBER21</list>
-   </STR:>
-   <Actual result:>The coupon code CYBER21 isn't applied while 2 books are added into the cart</Actual result:>
-   <Expected result:>The coupon code CYBER21 is applied</Expected result:>
-   <Environment:> 
-      <list>System Version: macOS 10.15.7 (19H2),</list>
-      <list>Google Chrome Version 99.0.4844.84 (Official Build) (x86_64)</list>
-   </Environment:> 
-   <Severity:>Major</Severity:>
-   <Priority:>Medium</Priority:>
-   <Status:>New</Status:>
-   <Author:>Daria Filko</Author:>
-   <Assigned To:>Developer Ukrainian Kozak</Assigned To:>
-   <Attachment:>
-       <list>Attachment 1,</list>
-       <list>Attachment 2</list>
-   </Attachment:>
-</Bug report>
+   </STR>
+   <ActualResult>The coupon code CYBER21 isn't applied while 2 books are added into the cart</ActualResult>
+   <ExpectedResult>The coupon code CYBER21 is applied</ExpectedResult>
+   <Environment> System Version: macOS 10.15.7 (19H2), Google Chrome Version 99.0.4844.84 (Official Build) (x86_64)</Environment> 
+   <Severity>Major</Severity>
+   <Priority>Medium</Priority>
+   <Status>New</Status>
+   <Author>Daria Filko</Author>
+   <AssignedTo>Developer Ukrainian Kozak</AssignedTo>
+   <Attachment>Attachment 1, Attachment 2</Attachment>
+</BugReport>
