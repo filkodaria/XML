@@ -1,6 +1,6 @@
 <info>
    <Name>Filko Daria</Name>
    <Age>34</Age>
-   <Pets Number>1</Pets Number>
-   <Expected Salary>600$</Expected Salary>
+   <PetsNumber>1</PetsNumber>
+   <ExpectedSalary>600$</ExpectedSalary>
 </info>

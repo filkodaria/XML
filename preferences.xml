@@ -1,7 +1,7 @@
 <Preferences>
-   <Favorite Movie>The Notebook</Favorite Movie> 
-   <Favorite Series>See</Favorite Series>
-   <Favorite Food>Salmon Tartare</Favorite Food>
-   <Favorite Season>Summer</Favorite Season>
-   <Country to Visit>Singapore</Country to Visit>
+   <FavoriteMovie>The Notebook</FavoriteMovie> 
+   <FavoriteSeries>See</FavoriteSeries>
+   <FavoriteFood>Salmon Tartare</FavoriteFood>
+   <FavoriteSeason>Summer</FavoriteSeason>
+   <CountryToVisit>Singapore</CountryToVisit>
 </Preferences>
